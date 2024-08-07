@@ -1,4 +1,4 @@
 # Chhatrapati-PG
-This app is for PG Management.
+PG Management App.
 <br>
 Author - Vishnu Tanpure
