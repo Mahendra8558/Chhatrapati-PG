@@ -1,4 +1,4 @@
 # Chhatrapati-PG
 PG Management App.
 <br>
-Author - Vishnu Tanpure
+Author - Vishnu Tanpure(VITS)
